@@ -1,3 +1,3 @@
 # SP_Project_team9
 
-Qualcomm Institute Summer Project
+2019 시스템 프로그래밍 프
